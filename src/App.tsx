@@ -15,8 +15,8 @@ const App: React.FC = () => {
     <div className="min-h-screen flex flex-col">
       <header className="header">
         <div className="max-w-6xl mx-auto">
-          <h1 className="text-xl font-medium">Database Management System - CS502 Assignment</h1>
-          <p className="text-md text-white">Submitted by: 23BCE125 and 23BCE118</p>
+          <h1 className="text-xl font-medium">Database Schema Normalization</h1>
+
         </div>
       </header>
 
